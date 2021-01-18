@@ -1,0 +1,61 @@
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.exe
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.pdb
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.xml
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\Interop.InetCtlsObjects.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\Interop.MSAdodcLib.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\Interop.MSComCtl2.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\Interop.MSMAPI.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.InetCtlsObjects.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSComCtl2.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSHTML.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSMAPI.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\ResolveAssemblyReference.cache
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.InetCtlsObjects.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSAdodcLib.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSComCtl2.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSMAPI.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.InetCtlsObjects.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSComCtl2.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSHTML.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSMAPI.dll
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU-NETCON.vbproj.ResolveComReference.cache
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.Form1.resources
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU-NETCON.vbproj.GenerateResource.Cache
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.exe
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.xml
+E:\Adoprog2\MYSQL_SYNDESEIS\youhou\GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.pdb
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.InetCtlsObjects.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSComCtl2.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSMAPI.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.InetCtlsObjects.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSComCtl2.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSHTML.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSMAPI.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU-NETCON.vbproj.ResolveComReference.cache
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.exe
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.xml
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.pdb
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.exe
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.pdb
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\YOUHOU.xml
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\Interop.InetCtlsObjects.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\Interop.MSComCtl2.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\Interop.MSMAPI.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.InetCtlsObjects.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSComCtl2.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSHTML.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\bin\AxInterop.MSMAPI.dll
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\ResolveAssemblyReference.cache
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.Form1.resources
+F:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU-NETCON.vbproj.GenerateResource.Cache
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.InetCtlsObjects.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSComCtl2.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\Interop.MSMAPI.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.InetCtlsObjects.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSComCtl2.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSHTML.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\AxInterop.MSMAPI.dll
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU-NETCON.vbproj.ResolveComReference.cache
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.exe
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.xml
+C:\adoprog2\MYSQL_SYNDESEIS\youhou\2019 εδω ειναι το σωστο GETPARAGGELIES\YOUHOU.NET2\obj\Debug\YOUHOU.pdb
